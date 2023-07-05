@@ -1,0 +1,25 @@
+
+      body
+      {
+        
+        background-color: black;
+      }
+
+     h2
+     {
+      padding: 10px;
+      background-color: lightcoral;
+      max-width: fit-content;
+      max-height: fit-content;
+     }
+   div
+    {
+      padding: 30px;
+      background-color: aqua;
+      max-width: fit-content;
+      max-height: fit-content;
+    }
+    
+
+
+    
